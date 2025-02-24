@@ -89,6 +89,4 @@ Secret for Test Case 2: <calculated_value>
 - Improve input handling for dynamic test cases.
 
 ---
-### Author
-Developed as part of **Catalog Placements Assignment - Offline**.
 
